@@ -1,3 +1,6 @@
 ---
-- debug:
-    msg: 'test!!!'
+- name: test playbook
+  hosts: all
+  tasks:
+    - debug:
+        msg: 'test!!!'
