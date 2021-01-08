@@ -1,8 +1,8 @@
 [cisco]
-cisco-lab1 dc=dc1
-cisco-lab2 dc=dc1
-cisco-lab3 dc=dc2
-cisco-lab4 dc=dc2
+cisco-lab1
+cisco-lab2
+cisco-lab3
+cisco-lab4
 
 [arista]
-arista-lab1 dc=dc1
+arista-lab1
